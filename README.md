@@ -79,3 +79,7 @@ CPU model against Intel Ice Lake-SP+ / AMD Zen 4+.
   Elasticsearch, etc.) need the same flag set their own way — the script lists them
   but does not patch them.
 - Run on each **server** that hosts a JVM; scanning one box does not clear another.
+
+## License
+
+MIT — see [LICENSE](LICENSE). Provided **as is**, without warranty of any kind.
